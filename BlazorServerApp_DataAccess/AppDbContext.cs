@@ -9,6 +9,7 @@ namespace BlazorServerApp_DataAccess
 
         }
 
-        // creates a table inn the database
-       // public DbSet<Domain>Domains { get; set; }
+        // creates a table in the database
+        // public DbSet<Domain>Domains { get; set; }
+    }
 }
