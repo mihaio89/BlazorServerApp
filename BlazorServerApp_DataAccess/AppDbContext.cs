@@ -14,6 +14,6 @@ namespace BlazorServerApp_DataAccess
         // creates a table in the database
         // public DbSet<Domain>Domains { get; set; }
 
-       // public DbSet<ApplicationUser> ApplicationUsers { get; set; }
+       public DbSet<ApplicationUser> ApplicationUsers { get; set; }
     }
 }
