@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorServerApp", "BlazorServerApp.csproj", "{A2D1C9FD-88D5-4473-8ACB-A5D1ED46B692}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServerApp_DataAccess", "..\BlazorServerApp_DataAccess\BlazorServerApp_DataAccess.csproj", "{05F4B94A-FE3F-4186-95B2-F92696A24032}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorServerApp_DataAccess", "..\BlazorServerApp_DataAccess\BlazorServerApp_DataAccess.csproj", "{05F4B94A-FE3F-4186-95B2-F92696A24032}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
